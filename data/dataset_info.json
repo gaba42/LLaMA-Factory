@@ -1,4 +1,12 @@
 {
+  "docker_NL": {
+    "hf_hub_url": "MattCoddity/dockerNLcommands",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": output
+    }
+  },
   "identity": {
     "file_name": "identity.json"
   },
